@@ -3,3 +3,4 @@ joblib
 pandas
 sickit-learn
 numpy
+gunicorn
